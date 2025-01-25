@@ -1,0 +1,28 @@
+A proposition is a declarative sentence ( declares a fact).
+What time is it ?
+Read this carefully.
+x+1=2
+x+y=z 
+--> not proposition.
+Use letters to denote propositional variables -->Proposition that cannot be expressed in terms of simpler porpositions are called atomic propositions.
+The area of logic that deals with propositions is called the propositional calculus or propositional logic.
+Compound propositions are formed from existing propositions using logical operators
+Conjunction : AND
+DISJUNCTION : OR
+exclusive: only one of p or Q is true. Can have a or b but not both
+
+Biconditional : p,q cung dung hoac cung sai thi true :p if and only if q (p <-->q) (p is necessary and sufficient for q
+
+p-->q : P us called the hypothesis (or antecedent or premise) and q is called the conclusion(or consequence.)
+Neu
+P true ,q false ==> p-->q false
+P true,q true ==> p--> true
+p false, q whatever --> p-->q true
+
+There are three types of conditional statements:
+_ converse of p--> q is q--> p
+_ The contrapositive of p-->q is the proposition -q--> -p
+_ -p-->-q is called the inverse of p--> q.
+When the original p--> q is false, the contrapositive is true too, but the converse and the inverse are true.
+When two compound propositions always have the same truth values, regardless of the truth values of its propositional variables, we call them equivalent
+Converse or the inverse of a conditional statement are not equivalent to the original conditional statement.
